@@ -1,1 +1,2 @@
 WeixinMPSDK
+盛派微信SDK文档
